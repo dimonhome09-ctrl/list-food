@@ -17,6 +17,7 @@ while True:
     else:
         add_food()
         show_food()
+#Код сам написав
 
 
 
